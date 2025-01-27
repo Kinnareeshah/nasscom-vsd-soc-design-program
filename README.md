@@ -1,1 +1,1 @@
-hi! this is just a trial ones.
+I'll be adding the content according to the sessions of each day.
