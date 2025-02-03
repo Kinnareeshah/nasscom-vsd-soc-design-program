@@ -67,7 +67,9 @@ now once the docker is run as well as synthesis is run then the changes can be s
 ![image](https://github.com/user-attachments/assets/e8eeb931-ecbd-4b87-931b-9122a798346f)
 ![image](https://github.com/user-attachments/assets/f391cb4c-228f-441e-a353-bb6752d7946b)
 ![image](https://github.com/user-attachments/assets/4a723019-5e95-4e9b-b1d8-68f75f547300)
-going through this error during upscaling of the cells. will try to resolve it soon and update here.
+going through this error during the upscaling of the cells.
+![image](https://github.com/user-attachments/assets/eb9a1b24-83dd-46f0-aa6f-2c44f09f3106)
+will try to resolve it soon and update here.
 
 
 
