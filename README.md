@@ -59,7 +59,6 @@ now once the docker is run as well as synthesis is run then the changes can be s
 ![image](https://github.com/user-attachments/assets/a20525bd-c22d-44c4-aa9b-dcd592e947eb)
 ![image](https://github.com/user-attachments/assets/0e9ffe27-eb99-4c0f-9205-62a07e062217)
 ![image](https://github.com/user-attachments/assets/904f786a-69ff-4b32-a143-196bb0727dc3)
-![image](https://github.com/user-attachments/assets/fefbf1b9-b1fc-43ec-87ec-935b30e7cce1)
 ![image](https://github.com/user-attachments/assets/34d09aaf-1c1e-4604-9db0-4512deebbe5e)
 ![image](https://github.com/user-attachments/assets/74237050-1a4e-4f1f-a667-3e59c67cf957)
 ![image](https://github.com/user-attachments/assets/fe230844-41c7-42be-8e9a-d41cea74b5a2)
