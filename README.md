@@ -54,8 +54,30 @@ now once the docker is run as well as synthesis is run then the changes can be s
 ![image](https://github.com/user-attachments/assets/1a95650c-cade-4066-bd61-1a7f0a027ac4)
 [image](https://github.com/user-attachments/assets/8eb52dd2-e6b2-4cb8-81e2-176ad5e526e5)
 ![image](https://github.com/user-attachments/assets/cb436052-09f2-4092-9c88-1566239b8205)
-![image](https://github.com/user-attachments/assets/e21385e2-f951-4b60-ac29-40b086d72b4d)
 ![image](https://github.com/user-attachments/assets/d4090665-23bf-43bb-a1b1-5734714557fb)
+![image](https://github.com/user-attachments/assets/e21385e2-f951-4b60-ac29-40b086d72b4d)
+Changing the properties of the inverter like its pitch and width and checking all the respective changes.
+![image](https://github.com/user-attachments/assets/3745e04f-b485-4f00-af3c-6e770072cef2)
+![image](https://github.com/user-attachments/assets/178bc880-90bf-4904-8352-6116949080eb)
+![image](https://github.com/user-attachments/assets/f5f1f8f7-5885-40a5-a903-6383c65266e3)
+![image](https://github.com/user-attachments/assets/30525c65-f2bf-4f51-bff5-dc0298dd27a3)
+![image](https://github.com/user-attachments/assets/7ee816ba-6505-4d31-9a7c-c3069c8ec451)
+![image](https://github.com/user-attachments/assets/5ec08dfa-8314-4514-bce7-aa2b0cd6bcec)
+checking the lef file that has been generated of this layout
+![image](https://github.com/user-attachments/assets/d806ff99-cff8-496a-9718-a39f34dd6b54)
+![image](https://github.com/user-attachments/assets/56241c73-03fc-475c-b752-8e6fe76896a5)
+![image](https://github.com/user-attachments/assets/ad3cfb86-7f95-40d5-8a79-0ee05833a337)
+![image](https://github.com/user-attachments/assets/d36a2409-2f5c-4f34-a425-319e654a2666)
+![image](https://github.com/user-attachments/assets/0f99d798-8c65-41c1-ac58-4f2a6187c56c)
+![image](https://github.com/user-attachments/assets/1a488b35-ed5d-47c2-87cd-ac0362e780aa)
+now in this next image it can be seen that has increased
+![image](https://github.com/user-attachments/assets/de3eff83-db79-4b88-b31e-bff65880d712)
+![image](https://github.com/user-attachments/assets/e8c72dff-7f2b-4a6c-b930-295539070b71)
+check the newly craeted lef file of updated inverted in vsdcelldesign- sky130_vsdinv.lef and check for your specific inv whoes propoerty were changed,
+![Uploading image.png…]()
+
+
+
 config.tcl and base.sdc to create on your own
 ![image](https://github.com/user-attachments/assets/cb7dbbd4-0f69-4b62-9bf7-340b6e2b14b3)
 ![image](https://github.com/user-attachments/assets/e8eeb931-ecbd-4b87-931b-9122a798346f)
