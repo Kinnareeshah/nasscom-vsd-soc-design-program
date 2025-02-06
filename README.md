@@ -73,16 +73,50 @@ checking the lef file that has been generated of this layout
 now in this next image it can be seen that has increased
 ![image](https://github.com/user-attachments/assets/de3eff83-db79-4b88-b31e-bff65880d712)
 ![image](https://github.com/user-attachments/assets/e8c72dff-7f2b-4a6c-b930-295539070b71)
-check the newly craeted lef file of updated inverted in vsdcelldesign- sky130_vsdinv.lef and check for your specific inv whoes propoerty were changed,
-![Uploading image.png…]()
-
-
-
+check the newly created lef file of updated inverted in vsdcelldesign- sky130_vsdinv.lef and check for your specific inv who's property were changed,
+![image](https://github.com/user-attachments/assets/9a5a3044-f0ff-4c81-861c-c2fae07bd04b)
+![image](https://github.com/user-attachments/assets/d6e64700-1c1d-4710-bb29-48efbf855180)
+![image](https://github.com/user-attachments/assets/6073258f-647f-4104-b527-8f97b08db2d8)
+![image](https://github.com/user-attachments/assets/08ce9235-9d54-4b2e-93ab-6b053f00c554)
+![image](https://github.com/user-attachments/assets/89af08ca-a453-4fc6-adb4-0bb052d98064)
+![image](https://github.com/user-attachments/assets/73e421b3-5ce8-4e66-8dbd-f215f67b113e)
+![image](https://github.com/user-attachments/assets/792ce7d6-59ea-441f-9fd6-a2996dcd3051)
 config.tcl and base.sdc to create on your own
-![image](https://github.com/user-attachments/assets/cb7dbbd4-0f69-4b62-9bf7-340b6e2b14b3)
 ![image](https://github.com/user-attachments/assets/e8eeb931-ecbd-4b87-931b-9122a798346f)
 ![image](https://github.com/user-attachments/assets/d4823e92-78f9-49d3-824e-8e014e769ece)
 ![image](https://github.com/user-attachments/assets/e07f0b58-98da-40ab-82a4-c6065ba2e187)
+![image](https://github.com/user-attachments/assets/aaf1da1e-ee96-4d09-952d-e39323e600f5)
+![image](https://github.com/user-attachments/assets/03598df5-2547-4e3d-996b-c5ee8e4dee57)
+![image](https://github.com/user-attachments/assets/3a24cd0c-10a7-4304-a669-2b444f7bfba7)
+![image](https://github.com/user-attachments/assets/0d9e8428-a3ee-4448-b33d-56f6717fab8d)
+![image](https://github.com/user-attachments/assets/e97bd4db-807a-4715-bf62-9f73aa0a7d15)
+![image](https://github.com/user-attachments/assets/d3411054-d822-4113-8148-ef52a63b8690)
+![image](https://github.com/user-attachments/assets/d6933d69-6fe3-4a6a-9e21-1ab6b851c37d)
+![image](https://github.com/user-attachments/assets/f56a13e9-c041-4d16-9e11-41ed8ad155e9)
+![image](https://github.com/user-attachments/assets/9faf1948-c2ca-47b7-9b72-c579e935e005)
+![image](https://github.com/user-attachments/assets/69ea9b08-8604-46d7-9822-01a68bc91c6b)
+![image](https://github.com/user-attachments/assets/5c1685b2-0732-487f-9fed-829a9249dc8f)
+![image](https://github.com/user-attachments/assets/b68790fb-41a2-4ae8-b94b-5995fc6f18d2)
+![image](https://github.com/user-attachments/assets/4ecdfa7a-3ab8-4ae1-adf3-7309736ebdfc)
+![image](https://github.com/user-attachments/assets/9de1c235-6abe-4949-b152-48d1e0617740)
+![image](https://github.com/user-attachments/assets/41108b89-b635-4516-8551-421c5dd9ad92)
+![image](https://github.com/user-attachments/assets/cb4fedb5-24a4-4c85-8f70-dc25e672c565)
+![image](https://github.com/user-attachments/assets/250fc2e8-bb5b-4b23-a6b1-20ac002db50a)
+![image](https://github.com/user-attachments/assets/374face5-5729-4ecc-8f8f-ae01337b096a)
+![image](https://github.com/user-attachments/assets/f5d2ed6a-1680-49e1-a400-ceb4fa459bc1)
+![image](https://github.com/user-attachments/assets/bcc96b4e-a27c-4e9b-a1e9-3b33c3d736e1)
+![image](https://github.com/user-attachments/assets/249d7247-d4d1-4a4c-8bea-4bb9290266b8)
+![image](https://github.com/user-attachments/assets/e76b3d0a-dcb2-4dcb-8fbb-d563562116a3)
+![image](https://github.com/user-attachments/assets/7b2c9eb0-e8f5-400b-9140-b0bc9659ce18)
+![image](https://github.com/user-attachments/assets/1e08aa00-2e77-47ae-ab2f-3c3106819a05)
+![image](https://github.com/user-attachments/assets/f96d1d87-4f07-46a6-ad1a-4e5ca1bf9907)
+
+
+
+
+
+
+
 
 
 
